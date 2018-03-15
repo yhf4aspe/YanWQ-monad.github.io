@@ -9,7 +9,7 @@ Disallow: /js/
 Disallow: /css/
 Disallow: /less/
 Allow: /
-Sitemap: http://YanWQ-monad.github.io/sitemap.xml
+Sitemap: http://yhf4aspe.github.io/sitemap.xml
 
 User-agent: Baiduspider
 Disallow: /
