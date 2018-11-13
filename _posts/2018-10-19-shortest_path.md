@@ -2,7 +2,7 @@
 layout:     post
 title:      "最短路的 1 点延伸"
 subtitle:   "还是最短路"
-date:       2018-03-17 12:00:00
+date:       2018-10-19 12:00:00
 author:     "Aspe"
 header-img: "img/post-bg-2015.jpg"
 mathjax:    false
